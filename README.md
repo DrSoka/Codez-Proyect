@@ -1,2 +1,2 @@
-# no-se-que-haremos-pero-bueno
+# Prácticas de Python
 yeyeyeye
