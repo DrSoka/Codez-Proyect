@@ -2,6 +2,7 @@ import clipboard
 from tkinter import Tk, Button, Entry, StringVar
 
 main = Tk()
+main.title('CDN converter v2.1')
 main.geometry("300x60")
 # Usar 300x60 para una entrada solamente
 
